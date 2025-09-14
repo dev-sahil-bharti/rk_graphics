@@ -14,7 +14,7 @@ export default function Navbar() {
                         className="d-inline-block align-text-center mx-2"
                         style={{ borderRadius: '10px' }}
                     />
-                    <h3 className="m-0">𝑅𝒦 𝒢𝑅𝒜𝒫𝐻𝐼𝒞𝒮</h3>
+                    <h3 className="m-0">▓▒░ 𝗥𝗞 𝗚𝗥𝗔𝗣𝗛𝗜𝗖𝗦 ░▒▓</h3>
                 </a>
 
                 <div className="collapse navbar-collapse justify-content-end mx-3" id="navbarNav">
